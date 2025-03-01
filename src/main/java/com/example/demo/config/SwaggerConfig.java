@@ -17,7 +17,7 @@ public class SwaggerConfig {
 
         // API 정보 설정
         Info apiInfo = new Info()
-                .title("Yoon's API") // API 제목
+                .title("도커 컴포즈 확인") // API 제목
                 .description("Yoon's API 명세서") // API 설명
                 .version("1.0.0"); // API 버전
 
