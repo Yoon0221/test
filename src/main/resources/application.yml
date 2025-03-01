@@ -72,7 +72,7 @@ spring:
             client-id: "${KAKAO_CLIENT_ID}"
             client-secret: "${KAKAO_CLIENT_SECRET}"
             authorization-grant-type: authorization_code
-            redirect-uri: https://${DOMAIN}/login/oauth2/code/kakao
+            redirect-uri: https://jiyoon.n-e.kr/login/oauth2/code/kakao
             scope:
               - account_email
               - profile_nickname
