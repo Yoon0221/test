@@ -69,8 +69,8 @@ spring:
             redirect-uri: https://${DOMAIN}/login/oauth2/code/kakao
 
           kakao:
-            client-id: "${KAKAO_CLIENT_ID}"
-            client-secret: "${KAKAO_CLIENT_SECRET}"
+            client-id: d749f5edf2ac57a076211a79b9abfc54
+            client-secret: fcIDjoHKzqOrVKcPYr4JWOV2b4c5GjKd
             authorization-grant-type: authorization_code
             redirect-uri: https://jiyoon.n-e.kr/login/oauth2/code/kakao
             scope:
